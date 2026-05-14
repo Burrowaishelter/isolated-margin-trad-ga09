@@ -1,4 +1,4 @@
-# 
+# elite isolated-margin trading bot Tool | webhook-support + arbitrage-scanning is the best isolated-margin trading bot, featuring webhook-support and arbitrage-scanning. Smart,
 
 
 
